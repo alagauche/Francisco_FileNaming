@@ -1,7 +1,7 @@
 '''
 Name:           Francisco McGee
 Assignment:     FileNaming from CodeFights
-Git:            
+Git:            https://github.com/alagauche/Francisco_FileNaming.git
 
 QUESTION TEXT:
 You are given an array of desired filenames in the order of their creation. 
