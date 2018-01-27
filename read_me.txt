@@ -2,6 +2,14 @@ Name:           Francisco McGee
 Assignment:     FileNaming from CodeFights
 Git:            https://github.com/alagauche/Francisco_FileNaming.git 
 
+INSTRUCTIONS:
+Run the file named:
+     
+     Francisco_fileNaming.py
+
+The other files were tester and working files.
+
+
 QUESTION TEXT:
 You are given an array of desired filenames in the order of their creation. 
 Since two files cannot have equal names, the one which comes later will have 
